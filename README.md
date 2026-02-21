@@ -1,6 +1,6 @@
 👋 Hi, I’m Khaled (@kzaky)
 
-🚀 Senior Director, Agentic AI Platform at [RBC Borealis](https://www.rbc.com/borealis/)
+🚀 Senior Director, Agentic AI Platform at [RBC Borealis](https://rbcborealis.com)
 
 ☁️ Former Sr. Product Manager at [AWS – Amazon Web Services](https://aws.amazon.com), where I worked on [AWS Identity](https://aws.amazon.com/identity/) including user authentication, sign-in, passkeys, and multi-factor authentication used by millions of customers worldwide.
 
