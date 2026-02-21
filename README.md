@@ -1,17 +1,28 @@
-👋 Hi, I’m @kzaky!
+👋 Hi, I’m Khaled (@kzaky)
 
-☁️ I am a Sr. Product Manager at [AWS - Amazon Web Services](http://aws.amazon.com).
+🚀 Senior Director, Agentic AI Platform at [RBC Borealis](https://www.rbc.com/borealis/)
 
-👨‍💻 I am responsible for [AWS Identity](https://aws.amazon.com/identity/) products such as user authentication, sign-in, and multi-factor authentication for [AWS - Amazon Web Services](http://aws.amazon.com).
+☁️ Former Sr. Product Manager at [AWS – Amazon Web Services](https://aws.amazon.com), where I worked on [AWS Identity](https://aws.amazon.com/identity/) including user authentication, sign-in, passkeys, and multi-factor authentication used by millions of customers worldwide.
 
-👨‍🏫 I teach a Product Management class at [Brainstation](https://www.coursereport.com/blog/learn-from-a-real-product-manager-at-brainstation-khaled-zaky) in the evenings and weekends.
+🤖 Today I focus on building enterprise AI agent platforms, developer ecosystems, and secure-by-design AI infrastructure.
 
-🤔 I’m interested in all things cloud, identity, and product management.
+👨‍🏫 I teach Product Management at [BrainStation](https://www.coursereport.com/blog/learn-from-a-real-product-manager-at-brainstation-khaled-zaky), mentoring builders and future product leaders.
 
-👀 I'm looking to collaborate on improving authentication for workforce and enterprise customers.
+🤔 Interests:
+- Agentic AI platforms
+- Identity and authentication
+- Cloud and distributed systems
+- Product strategy and platform design
 
-🎯 My goal is to enable customers to easily adopt more secure authentication solutions such as FIDO security keys.
+🤝 Open to collaborating on:
+- AI agents and developer platforms
+- Authentication and identity innovation
+- Enterprise-grade secure systems
 
-📫 You can reach me on [Twitter](http://twitter.com/iamkhaledzaky) or [LinkedIn](http://linkedin.com/in/khaledzaky/).
+🎯 Mission: make advanced technology usable, secure, and accessible at global scale.
 
-✍️ I often share what I'm learning on my [blog](khaledzaky.com).
+📫 Connect with me:
+- [LinkedIn](https://linkedin.com/in/khaledzaky)
+- [Twitter / X](https://twitter.com/iamkhaledzaky)
+
+✍️ I occasionally share lessons learned from building products, platforms, and teams at [khaledzaky.com](https://khaledzaky.com)
