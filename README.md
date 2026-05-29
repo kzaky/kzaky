@@ -1,21 +1,22 @@
 👋 Hi, I’m Khaled (@kzaky)
 
-🚀 Senior Director, Agentic AI Platform at [RBC Borealis](https://rbcborealis.com)
+🚀 Head of AI Governance and Evaluations Platform at [RBC Borealis](https://rbcborealis.com)
 
 ☁️ Former Sr. Product Manager at [AWS – Amazon Web Services](https://aws.amazon.com), where I worked on [AWS Identity](https://aws.amazon.com/identity/) including user authentication, sign-in, passkeys, and multi-factor authentication used by millions of customers worldwide.
 
-🤖 Today I focus on building enterprise AI agent platforms, developer ecosystems, and secure-by-design AI infrastructure.
+🤖 Today I lead platform strategy for how the bank governs, evaluates, and deploys AI responsibly at scale — spanning evaluation frameworks, governance infrastructure, model risk, and the organizational patterns needed to operate AI safely in a regulated environment.
 
 👨‍🏫 I teach Product Management at [BrainStation](https://www.coursereport.com/blog/learn-from-a-real-product-manager-at-brainstation-khaled-zaky), mentoring builders and future product leaders.
 
 🤔 Interests:
-- Agentic AI platforms
+- AI governance and evaluation frameworks
+- Model risk and responsible AI
 - Identity and authentication
 - Cloud and distributed systems
 - Product strategy and platform design
 
 🤝 Open to collaborating on:
-- AI agents and developer platforms
+- AI governance, evaluation platforms, and responsible AI infrastructure
 - Authentication and identity innovation
 - Enterprise-grade secure systems
 
