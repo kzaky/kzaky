@@ -6,7 +6,7 @@
 
 🤖 Today I lead platform strategy for how the bank governs, evaluates, and deploys AI responsibly at scale — spanning evaluation frameworks, governance infrastructure, model risk, and the organizational patterns needed to operate AI safely in a regulated environment.
 
-👨‍🏫 I teach Product Management at [BrainStation](https://www.coursereport.com/blog/learn-from-a-real-product-manager-at-brainstation-khaled-zaky), mentoring builders and future product leaders.
+👨‍🏫 I teach Product Management and AI at [BrainStation](https://www.coursereport.com/blog/learn-from-a-real-product-manager-at-brainstation-khaled-zaky), mentoring builders and future product leaders.
 
 🤔 Interests:
 - AI governance and evaluation frameworks
